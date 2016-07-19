@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubAadventure.CSharp", "CubAadventure.CSharp.csproj", "{355A339E-9F12-7D5D-A2CE-19A537E7196C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubAadventure.CSharp.Editor", "CubAadventure.CSharp.Editor.csproj", "{AFCD8CD6-0E3A-4204-DE70-EC3D5B27C3B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355A339E-9F12-7D5D-A2CE-19A537E7196C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355A339E-9F12-7D5D-A2CE-19A537E7196C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355A339E-9F12-7D5D-A2CE-19A537E7196C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355A339E-9F12-7D5D-A2CE-19A537E7196C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCD8CD6-0E3A-4204-DE70-EC3D5B27C3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCD8CD6-0E3A-4204-DE70-EC3D5B27C3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCD8CD6-0E3A-4204-DE70-EC3D5B27C3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCD8CD6-0E3A-4204-DE70-EC3D5B27C3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{77D0FACE-127C-55CA-7F85-658C0FFF8BD9}") = "cube of adventure", "Assembly-CSharp.csproj", "{8D1A681C-B8AB-7893-B119-2CBA8485C195}"
+EndProject
+Project("{77D0FACE-127C-55CA-7F85-658C0FFF8BD9}") = "cube of adventure", "Assembly-CSharp-Editor.csproj", "{5A393BB7-CBC9-806A-E42F-57BDDE62ED83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1A681C-B8AB-7893-B119-2CBA8485C195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1A681C-B8AB-7893-B119-2CBA8485C195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1A681C-B8AB-7893-B119-2CBA8485C195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1A681C-B8AB-7893-B119-2CBA8485C195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A393BB7-CBC9-806A-E42F-57BDDE62ED83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A393BB7-CBC9-806A-E42F-57BDDE62ED83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A393BB7-CBC9-806A-E42F-57BDDE62ED83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A393BB7-CBC9-806A-E42F-57BDDE62ED83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
